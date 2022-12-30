@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button Candidate Details</name>
+   <tag></tag>
+   <elementGuidId>4a2233e7-61e3-41e0-a8fc-f09cac123167</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.link--O7e</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>387ce0cd-a3cb-4e11-8ce7-48b942888a22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>link--O7e</value>
+      <webElementGuid>5e343ad6-a71c-4f58-95e3-270aa43840eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-katalon</name>
+      <type>Main</type>
+      <value>candidatePanelLink</value>
+      <webElementGuid>096dfce6-f6c0-4a92-a511-d05c261cf032</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/selection/candidate/4340457?page=1&amp;unit=7617</value>
+      <webElementGuid>c907c671-fec9-4613-a7bf-37b01301ebe1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BI+NIVO 11 DimaTEST</value>
+      <webElementGuid>887cd7bf-0d56-40c5-8751-8ae9a23d5a4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[5]/div[@class=&quot;styles_overlay__CLSq- modalSectionOverlay modalSectionOverlay--1PI&quot;]/div[@class=&quot;styles_modal__gNwvD modalSection--1cU modalSection_rightDirection--xGQ&quot;]/div[1]/div[@class=&quot;modalSectionWrapper--RKn&quot;]/header[@class=&quot;modalSection_header--1La rightDirection--3Af&quot;]/div[@class=&quot;title--35S CandidatePanelTitle&quot;]/a[@class=&quot;link--O7e&quot;]</value>
+      <webElementGuid>b16762e8-9e5f-49a6-a9e4-0b69c121292e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::a[1]</value>
+      <webElementGuid>9d2e9ef2-990e-4d7f-978c-69f07ee3f41a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[2]/following::a[1]</value>
+      <webElementGuid>99f91cae-c898-4199-bc6f-bef68c2b6a97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[1]/preceding::a[1]</value>
+      <webElementGuid>5cfb29e6-dd9e-44e9-81a1-a6ecdf6c63b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/selection/candidate/4340457?page=1&amp;unit=7617')]</value>
+      <webElementGuid>8450d8c8-2ae3-44f0-8a4c-56240815631b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div/a</value>
+      <webElementGuid>443df9f3-997c-4ac3-af84-9d5039774647</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/selection/candidate/4340457?page=1&amp;unit=7617' and (text() = 'BI+NIVO 11 DimaTEST' or . = 'BI+NIVO 11 DimaTEST')]</value>
+      <webElementGuid>438cbf5c-2d69-411f-9c5e-e1923dffceb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

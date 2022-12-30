@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button Invite via link</name>
+   <tag></tag>
+   <elementGuidId>82e85c37-991b-4a86-b573-6d503afc0937</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal invite via email'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bdfe9c13-dcb4-4d79-985e-a847c4ab210b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn--2Fa</value>
+      <webElementGuid>f3dfc880-ed71-4564-9a02-27aa941466ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-katalon</name>
+      <type>Main</type>
+      <value>inviteCandidateViaLinkBtn</value>
+      <webElementGuid>94efd0d6-1a20-4190-819c-66d7a386bcbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Invite via link</value>
+      <webElementGuid>8d827962-c6e9-423b-820f-f08d334751cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[6]/div[@class=&quot;styles_overlay__CLSq- modalOverlay overlay--1b0&quot;]/div[@class=&quot;styles_modal__gNwvD modalV2--3P2 actionsModal--dip actionsModalEmail--2u- actionsModalInvite--3Sk&quot;]/div[1]/div[@class=&quot;section--1sp&quot;]/div[@class=&quot;content--1Ky&quot;]/div[@class=&quot;wrapper--1J8&quot;]/div[@class=&quot;btnsWrapper--1IT&quot;]/button[@class=&quot;btn--2Fa&quot;]</value>
+      <webElementGuid>fef8cf44-6331-422e-9389-2e23e45207f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal invite via email'])[1]/following::button[1]</value>
+      <webElementGuid>c76464ac-227c-4054-bbf5-a812b0fc0051</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div/div/div/button[2]</value>
+      <webElementGuid>1a1b42b7-a272-4f60-a444-28324c7273ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Invite via link' or . = 'Invite via link')]</value>
+      <webElementGuid>9183b920-bb8a-43da-a1db-1200653a6fd3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

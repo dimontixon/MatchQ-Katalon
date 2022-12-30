@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label Date Added</name>
+   <tag></tag>
+   <elementGuidId>79d07fd7-33df-4579-a6fe-c10774a68a35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.selection-list__cell--date.rowCell--34R</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-container']/div/div[3]/div[2]/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>916b27f4-0bb8-4b23-9e05-e7f8216c3ac8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selection-list__cell--date rowCell--34R</value>
+      <webElementGuid>c6f9d0bb-9d1b-4caf-bd0f-021ad2b3acc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-katalon</name>
+      <type>Main</type>
+      <value>selectionCandidateDate</value>
+      <webElementGuid>54864b45-cd15-4e05-9f1c-59522e0501fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>13.09.2022</value>
+      <webElementGuid>86712f3a-cdea-4c08-90c6-3b105c1bff10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-container&quot;)/div[@class=&quot;content content--3Nx&quot;]/div[@class=&quot;list--3Gh&quot;]/div[@class=&quot;body--2ay selection-list-body&quot;]/div[@class=&quot;rowWrapper--1YB&quot;]/div[@class=&quot;row--2Qg&quot;]/div[@class=&quot;selection-list__cell--date rowCell--34R&quot;]</value>
+      <webElementGuid>f9040b53-3252-4f44-83bc-c32e50a8095f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-container']/div/div[3]/div[2]/div/div/div[3]</value>
+      <webElementGuid>cc7ced4a-224e-4297-a634-60f8fb7794ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report'])[1]/following::div[10]</value>
+      <webElementGuid>88c2409a-904d-4a14-a422-13aaff61cfee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BI + NIVO 25'])[1]/preceding::div[1]</value>
+      <webElementGuid>931c3be8-4d72-4cdf-b347-5c534527e003</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Incomplete'])[1]/preceding::div[5]</value>
+      <webElementGuid>b4bbc94e-d482-4d74-80f7-a6cc594f5584</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='13.09.2022']/parent::*</value>
+      <webElementGuid>bfe915a8-5a92-4ecf-9b5d-65821077fe7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]</value>
+      <webElementGuid>b45f761a-86b3-4eaf-bfd3-e9775c5016dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '13.09.2022' or . = '13.09.2022')]</value>
+      <webElementGuid>84a732b9-7572-47b8-84c4-35ade3953a92</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

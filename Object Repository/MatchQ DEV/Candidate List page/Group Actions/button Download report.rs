@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button Download report</name>
+   <tag></tag>
+   <elementGuidId>3347bfad-e7a3-4ec9-9d43-d69acd807d33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Deselect all'])[1]/following::div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f14ff18b-d7fd-45ae-ae0b-56de57a35045</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item--2AJ</value>
+      <webElementGuid>1ef6a72a-108b-43f4-a568-c15284aed295</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-katalon</name>
+      <type>Main</type>
+      <value>selectionGroupActionDownloadBtn</value>
+      <webElementGuid>4869e8ca-938e-490b-881b-1c28ea0f0d21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Download report </value>
+      <webElementGuid>e4ec4abc-f148-4598-a9eb-7f1996d3f368</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;tooltipContainer--1yK&quot;]/div[@class=&quot;tooltip--KxE tooltip_lightTheme--WIa tooltip_bottomPosition--3KK&quot;]/div[@class=&quot;tooltip__content--Do-&quot;]/div[@class=&quot;groupActionsTooltipContent--10v&quot;]/div[2]/div[@class=&quot;item--2AJ&quot;]</value>
+      <webElementGuid>459006f3-a8d4-4ce6-b446-0be94a0023c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deselect all'])[1]/following::div[3]</value>
+      <webElementGuid>b132b588-aead-4611-ac65-e2205ff9186e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::div[1]</value>
+      <webElementGuid>4eb817d2-5c7f-4d59-96f4-e7a92faaf57d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]/div[2]</value>
+      <webElementGuid>c7dfaf32-9b88-450d-9583-f04e5fa5321a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Download report ' or . = ' Download report ')]</value>
+      <webElementGuid>4c886105-eef9-42e7-8e3a-ee0e8624d896</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Status Hired</name>
+   <tag></tag>
+   <elementGuidId>0315a756-e240-4764-9abc-4c584fe7534d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Proposed'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ae333e80-ae05-49d9-b4e9-a033fabe1bfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>listItem--2fs</value>
+      <webElementGuid>a1f68ded-f738-4051-8024-835cfe11850b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-katalon</name>
+      <type>Main</type>
+      <value>dropdownItem_approved</value>
+      <webElementGuid>4fb51766-e3c3-4478-a0cd-4297fcb35dc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hired</value>
+      <webElementGuid>1b7a306b-7b61-45fe-ade6-e1ced623c54d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[5]/div[@class=&quot;styles_overlay__CLSq- modalSectionOverlay modalSectionOverlay--1PI&quot;]/div[@class=&quot;styles_modal__gNwvD modalSection--1cU&quot;]/div[1]/div[@class=&quot;modalSectionWrapper--RKn&quot;]/form[@class=&quot;form--1hP&quot;]/div[@class=&quot;content--1-N&quot;]/div[1]/div[1]/div[1]/div[1]/div[@class=&quot;group--1Hg&quot;]/div[@class=&quot;controlGroup--3ay&quot;]/div[@class=&quot;component--17Y&quot;]/div[@class=&quot;dropdown--2io dropdown_active--3so dropdown_default--2zr&quot;]/div[@class=&quot;container--3va container_default--2Es&quot;]/div[@class=&quot;list--2rn&quot;]/div[1]/div[1]/div[@class=&quot;listItem--2fs&quot;]</value>
+      <webElementGuid>9bae3604-aae6-463b-bed2-e61b9fd54a3b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proposed'])[1]/following::div[1]</value>
+      <webElementGuid>fd926b8f-d1fe-4537-8c83-4e75f634e1e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed'])[5]/following::div[2]</value>
+      <webElementGuid>8e9aeb9f-0b2a-4163-95a6-945db02eb9ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rejected'])[1]/preceding::div[1]</value>
+      <webElementGuid>86c3d886-b3f6-4dd6-9b6e-3dce2b9663aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div[6]</value>
+      <webElementGuid>e6ef90b6-50cb-487a-90c6-46d65b678135</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Hired' or . = 'Hired')]</value>
+      <webElementGuid>05a27675-e159-418c-8f5a-789525170c49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Full Name</name>
+   <tag></tag>
+   <elementGuidId>afbb3d84-3ab6-4e09-8371-37a8bf185c71</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-tabs-5']/div/div/div/div/div[2]/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>51eb964c-40e8-4907-83a9-611980524e3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text--2XJ</value>
+      <webElementGuid>d848763d-ab2d-4c57-89de-3f4c48709c60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-katalon</name>
+      <type>Main</type>
+      <value>candidatePanel_fullName</value>
+      <webElementGuid>cecd1b9a-2be5-46b9-9643-55e9ce670af8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dmytro2 abc222 abc2</value>
+      <webElementGuid>de360fd1-566c-45e2-aa22-b43b2b786034</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-tabs-5&quot;)/div[@class=&quot;details--1-t&quot;]/div[1]/div[1]/div[1]/div[@class=&quot;sectionWrapper--3oD&quot;]/div[@class=&quot;rowWrapper--3Qm&quot;]/span[@class=&quot;text--2XJ&quot;]</value>
+      <webElementGuid>74e1c92b-665e-41b8-be03-a696ad31232b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-tabs-5']/div/div/div/div/div[2]/div/span[2]</value>
+      <webElementGuid>8d111271-89e6-4daa-a925-7fd6840d2766</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Full name:'])[1]/following::span[1]</value>
+      <webElementGuid>100f8d03-37fb-4fab-92c4-4aaf4fc5ea1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal information'])[1]/following::span[2]</value>
+      <webElementGuid>e16b4d3f-84fe-49bc-93a2-485a9a69cab8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gender:'])[1]/preceding::span[1]</value>
+      <webElementGuid>3ad71236-212b-4c53-b372-05cc330a521f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Female'])[1]/preceding::span[2]</value>
+      <webElementGuid>c4d24c0c-5993-41e9-883d-8a532cfec864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span[2]</value>
+      <webElementGuid>ba9906fe-1ff5-488b-9167-958ce93d9edf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Dmytro2 abc222 abc2' or . = 'Dmytro2 abc222 abc2')]</value>
+      <webElementGuid>1456936b-cc69-4efb-89be-2b27067b4f81</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

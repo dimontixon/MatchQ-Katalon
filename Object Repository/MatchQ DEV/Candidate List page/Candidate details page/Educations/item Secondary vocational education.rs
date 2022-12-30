@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>item Secondary vocational education</name>
+   <tag></tag>
+   <elementGuidId>ce695cb6-d679-46b0-9153-1c22e7cd818e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-container']/div/div[2]/div/form/div[5]/div/div/div[2]/div/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5e3b60eb-394b-4844-aa83-e34f11688793</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>listItem--2fs</value>
+      <webElementGuid>6c907438-fd6b-4923-b470-57689eab5f93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-katalon</name>
+      <type>Main</type>
+      <value>dropdownItem_MBO</value>
+      <webElementGuid>29de2c89-3ed3-415a-9094-ad8bef14cddb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Secondary vocational education</value>
+      <webElementGuid>49189b59-9804-4b64-8c1f-37d80c0a7eca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-container&quot;)/div[@class=&quot;content content--3Nx&quot;]/div[@class=&quot;widgetWrapper--3SO&quot;]/div[@class=&quot;widget--pVX widget_active--JH5&quot;]/form[1]/div[@class=&quot;controlGroup--3ay controlGroup--2TV&quot;]/div[@class=&quot;component--17Y&quot;]/div[@class=&quot;dropdown--2io dropdown_active--3so dropdown_default--2zr dropdown_inline--1ve&quot;]/div[@class=&quot;container--3va container_default--2Es&quot;]/div[@class=&quot;list--2rn&quot;]/div[1]/div[1]/div[@class=&quot;listItem--2fs&quot;]</value>
+      <webElementGuid>5a9de505-0408-407e-a082-e548399cbfe1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-container']/div/div[2]/div/form/div[5]/div/div/div[2]/div/div/div/div[3]</value>
+      <webElementGuid>3690f4bb-79fa-4b1b-afd2-7dd2d851f08c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Higher vocational education'])[1]/following::div[1]</value>
+      <webElementGuid>d0c9fe50-07b1-418a-a591-71a66ac51698</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Academic education'])[2]/following::div[2]</value>
+      <webElementGuid>6dbf9252-89a3-44ae-97f7-d4f8b59d8553</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pre-university education'])[1]/preceding::div[1]</value>
+      <webElementGuid>aa16786f-6f0d-4696-b710-8a4e4b4cfa2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[3]</value>
+      <webElementGuid>7c425c46-dbdc-48b6-b18f-8e48b7e8ba7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Secondary vocational education' or . = 'Secondary vocational education')]</value>
+      <webElementGuid>7fe60ca9-a3c1-4765-baf9-7e3c981ce0af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

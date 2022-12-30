@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label Agency</name>
+   <tag></tag>
+   <elementGuidId>9f730627-8f07-454c-9d51-838842bea58e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.selection-list__cell--agency.rowCell--34R</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-container']/div/div[3]/div[2]/div/div/div[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c5d6f32e-e69a-4304-b2b6-2c50da299b08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selection-list__cell--agency rowCell--34R</value>
+      <webElementGuid>248b41f0-4b83-475b-a63b-b8a6ba8f4004</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-katalon</name>
+      <type>Main</type>
+      <value>selectionCandidateAgency</value>
+      <webElementGuid>efa4c050-66d1-4a51-96e3-a41c1eacacda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-container&quot;)/div[@class=&quot;content content--3Nx&quot;]/div[@class=&quot;list--3Gh&quot;]/div[@class=&quot;body--2ay selection-list-body&quot;]/div[@class=&quot;rowWrapper--1YB&quot;]/div[@class=&quot;row--2Qg&quot;]/div[@class=&quot;selection-list__cell--agency rowCell--34R&quot;]</value>
+      <webElementGuid>678aa8a5-3f5a-4705-a2eb-e949aeefcc9e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-container']/div/div[3]/div[2]/div/div/div[5]</value>
+      <webElementGuid>13440f53-d49e-4ea4-b16e-24cc6b300311</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[5]</value>
+      <webElementGuid>b2fddac1-9f17-48fa-ae80-81023479a2d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

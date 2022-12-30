@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown item Male</name>
+   <tag></tag>
+   <elementGuidId>df417343-8e9f-4e35-ae7d-e1fd8e90e84b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.listItem--2fs.listItem_selected--1Si</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-container']/div/div[2]/div/form/div[3]/div/div/div[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9ef86fda-ecae-43e5-9d0f-3e79e017eb72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>listItem--2fs listItem_selected--1Si</value>
+      <webElementGuid>b1e87e68-f40b-4d68-a5ff-47ff4a5a1643</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-katalon</name>
+      <type>Main</type>
+      <value>dropdownItem_male</value>
+      <webElementGuid>74d410a6-0ca9-418a-9d00-57ee74033adb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Male</value>
+      <webElementGuid>81658b11-d145-4d2d-98ad-d31ff05afc5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-container&quot;)/div[@class=&quot;content content--3Nx&quot;]/div[@class=&quot;widgetWrapper--3SO&quot;]/div[@class=&quot;widget--pVX widget_active--JH5&quot;]/form[1]/div[@class=&quot;controlGroup--3ay controlGroup--2TV&quot;]/div[@class=&quot;component--17Y&quot;]/div[@class=&quot;dropdown--2io dropdown_active--3so dropdown_default--2zr dropdown_inline--1ve&quot;]/div[@class=&quot;container--3va container_default--2Es&quot;]/div[@class=&quot;list--2rn&quot;]/div[1]/div[1]/div[@class=&quot;listItem--2fs listItem_selected--1Si&quot;]</value>
+      <webElementGuid>bc2a175b-8669-40cf-952a-a54ec4c95f33</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-container']/div/div[2]/div/form/div[3]/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>5b13a294-8785-41fe-8509-8b71b2463262</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Male'])[1]/following::div[5]</value>
+      <webElementGuid>8ded5414-cd49-4690-a930-23b671be4e5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::div[9]</value>
+      <webElementGuid>3a638b94-275e-460d-907b-549b06c0b2df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Female'])[1]/preceding::div[1]</value>
+      <webElementGuid>4c70030f-3d2c-4700-9e3c-29819fc2f389</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>2687b996-a2d2-4908-908a-439c9ddf881e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Male' or . = 'Male')]</value>
+      <webElementGuid>5fdb1d72-fbf1-434a-9b4c-7357d3546b43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

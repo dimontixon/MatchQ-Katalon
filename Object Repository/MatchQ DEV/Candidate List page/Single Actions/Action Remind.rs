@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Action Remind</name>
+   <tag></tag>
+   <elementGuidId>5e0192e8-a006-434b-bf6d-10d1abb1a9b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.item--2AJ</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-container']/div/div[4]/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0d0c96e9-1a97-4abc-8799-196353d10843</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item--2AJ</value>
+      <webElementGuid>d01e0eaa-3c2f-4a48-8e9e-30761fa5b705</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-katalon</name>
+      <type>Main</type>
+      <value>selectionCandidate_action_remind</value>
+      <webElementGuid>8bf67aae-a493-4a08-8d96-aa446fdeb492</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Remind </value>
+      <webElementGuid>129b0db9-56fc-4e9d-b483-68bc277a3873</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-container&quot;)/div[@class=&quot;content content--3Nx&quot;]/div[@class=&quot;tooltipScrollableContainer&quot;]/div[@class=&quot;tooltip--KxE tooltip_lightTheme--WIa tooltip_bottomPosition--3KK&quot;]/div[@class=&quot;tooltip__content--Do-&quot;]/div[@class=&quot;content--2sN&quot;]/div[1]/div[@class=&quot;item--2AJ&quot;]</value>
+      <webElementGuid>97838ab2-3dfb-42af-bad2-560b21b41bd8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-container']/div/div[4]/div/div/div/div/div</value>
+      <webElementGuid>d7b07d13-e6f1-4ae4-b3c9-eab5d6ebff85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go to page'])[1]/following::div[9]</value>
+      <webElementGuid>85669fcc-9280-4c43-bfeb-afb68d49054d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next page'])[1]/following::div[10]</value>
+      <webElementGuid>22b5fb8f-1112-4ea4-b671-d00bd74e56f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div</value>
+      <webElementGuid>7f5ef93a-bdc3-4360-9936-7a8d3b6e8879</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Remind ' or . = ' Remind ')]</value>
+      <webElementGuid>8e456afe-3350-4bac-8395-fc52f44da839</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

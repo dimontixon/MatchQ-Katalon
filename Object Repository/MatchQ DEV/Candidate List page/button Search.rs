@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button Search</name>
+   <tag></tag>
+   <elementGuidId>9703d984-0794-4293-b6bd-919550cc9a36</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.searchBtn--3s5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-container']/div/div[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f223965a-ab80-4508-9b94-2647405b7112</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>searchBtn--3s5</value>
+      <webElementGuid>ed983d45-5cf3-4f1e-a21b-c42c15e175a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-katalon</name>
+      <type>Main</type>
+      <value>selectionSearchBtn</value>
+      <webElementGuid>411b8938-6982-4095-984f-382bdea340dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-container&quot;)/div[@class=&quot;content content--3Nx&quot;]/div[@class=&quot;topActionsWrapper--2cB&quot;]/div[@class=&quot;searchTextboxWrapper--3xa&quot;]/button[@class=&quot;searchBtn--3s5&quot;]</value>
+      <webElementGuid>3f401d1a-0d14-4ff8-878a-cd990758a8ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-container']/div/div[2]/div/button</value>
+      <webElementGuid>e5dc9708-2062-4f1c-b5ab-3d86ee908245</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Centraal (Unit)'])[1]/following::button[2]</value>
+      <webElementGuid>ae1589ff-fa0a-4e26-ac81-bfc4685deca7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invite new candidate'])[1]/preceding::button[1]</value>
+      <webElementGuid>b3492840-56fb-4853-ab7c-797c62b35526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group actions'])[1]/preceding::button[2]</value>
+      <webElementGuid>65e56e50-1dfa-47ec-9e67-ec3d4be8f22f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div/button</value>
+      <webElementGuid>edd50629-b620-4634-969b-a807091f365b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

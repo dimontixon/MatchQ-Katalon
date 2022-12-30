@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>item Academic education</name>
+   <tag></tag>
+   <elementGuidId>3a368ce9-cfc8-4480-b1f0-984e941705fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.listItem--2fs.listItem_selected--1Si</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-container']/div/div[2]/div/form/div[5]/div/div/div[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5b99d067-b9cf-413f-a1fc-64469f9b7455</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>listItem--2fs listItem_selected--1Si</value>
+      <webElementGuid>9d3bd210-3d8f-49d7-b3a8-b4563bb3597f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-katalon</name>
+      <type>Main</type>
+      <value>dropdownItem_WO</value>
+      <webElementGuid>8af386c5-2276-4417-b86f-90f9b21ae598</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Academic education</value>
+      <webElementGuid>ce598f57-94cb-440e-a84f-7c0e8120136c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-container&quot;)/div[@class=&quot;content content--3Nx&quot;]/div[@class=&quot;widgetWrapper--3SO&quot;]/div[@class=&quot;widget--pVX widget_active--JH5&quot;]/form[1]/div[@class=&quot;controlGroup--3ay controlGroup--2TV&quot;]/div[@class=&quot;component--17Y&quot;]/div[@class=&quot;dropdown--2io dropdown_active--3so dropdown_default--2zr dropdown_inline--1ve&quot;]/div[@class=&quot;container--3va container_default--2Es&quot;]/div[@class=&quot;list--2rn&quot;]/div[1]/div[1]/div[@class=&quot;listItem--2fs listItem_selected--1Si&quot;]</value>
+      <webElementGuid>7b1b4f16-e32c-49df-9008-75a22434e83f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-container']/div/div[2]/div/form/div[5]/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>77101f6f-9f97-4424-ad6e-eb9131380c2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Academic education'])[1]/following::div[5]</value>
+      <webElementGuid>dee82c94-1565-481b-9bbc-361c57e159ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Education'])[1]/following::div[9]</value>
+      <webElementGuid>15a36393-be68-44e6-b880-b2d5d302df61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Higher vocational education'])[1]/preceding::div[1]</value>
+      <webElementGuid>01dc01e2-9ce7-4fe4-8c06-1ecd96ac56c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>4c49d9a5-151b-43d6-b2d8-c1b6b98098fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Academic education' or . = 'Academic education')]</value>
+      <webElementGuid>3a6787a6-089d-4a2a-8f3e-70c4489f9e1e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

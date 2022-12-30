@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button Deselect all</name>
+   <tag></tag>
+   <elementGuidId>1cc8ac1b-6f9d-4cc3-bc57-493a25026d53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a4328491-b19c-4159-95ee-df7891ed0829</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button--11r button_normal--2la button_default--mM4 button_with_icon--j12 groupFilterBtn--18a</value>
+      <webElementGuid>1c323a86-b135-498d-ba3b-30c2c737217f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1eaf2a95-e3e9-4d4a-9b5a-05eb2f0845a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-katalon</name>
+      <type>Main</type>
+      <value>selectionDeselectAllBtn</value>
+      <webElementGuid>3d2f5657-93df-43bb-807f-991768bce963</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Deselect all</value>
+      <webElementGuid>4bd264c7-ecbf-4d9a-a762-aa12cb83de2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;tooltipContainer--1yK&quot;]/div[@class=&quot;tooltip--KxE tooltip_lightTheme--WIa tooltip_bottomPosition--3KK&quot;]/div[@class=&quot;tooltip__content--Do-&quot;]/div[@class=&quot;groupActionsTooltipContent--10v&quot;]/div[@class=&quot;groupFilterBox--2tF&quot;]/button[@class=&quot;button--11r button_normal--2la button_default--mM4 button_with_icon--j12 groupFilterBtn--18a&quot;]</value>
+      <webElementGuid>e6c45d51-2c84-466f-9691-f3644cede679</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>fd204481-93c4-4a8d-a4fd-28c7008659f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show selected'])[1]/following::button[1]</value>
+      <webElementGuid>b87262cf-b237-4aea-ad13-cf906704c377</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go to page'])[1]/following::button[2]</value>
+      <webElementGuid>161174f5-363d-4575-bfd3-8156b4004757</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/button[2]</value>
+      <webElementGuid>e9f2baea-550c-4e3b-aa5c-45da04ae1778</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Deselect all' or . = 'Deselect all')]</value>
+      <webElementGuid>6aeb57db-f391-4e2f-b25c-f95c26ca5761</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

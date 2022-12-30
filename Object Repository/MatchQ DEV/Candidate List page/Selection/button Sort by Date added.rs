@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button Sort by Date added</name>
+   <tag></tag>
+   <elementGuidId>89a4f56f-f562-454d-8076-90da546c8830</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.selection-list__cell--date.headCell--lwz.headCellWithOrder--49O</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-container']/div/div[3]/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>23edb847-7792-4772-8d24-80efb44decc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selection-list__cell--date headCell--lwz headCellWithOrder--49O</value>
+      <webElementGuid>856db3b4-71e1-443f-b651-cc108a74bcb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-katalon</name>
+      <type>Main</type>
+      <value>candidateListSort_date</value>
+      <webElementGuid>58c5f4eb-c80b-496a-8062-cfa136444411</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Date added</value>
+      <webElementGuid>a5146c30-9ca7-4af7-a366-790f0855ba5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-container&quot;)/div[@class=&quot;content content--3Nx&quot;]/div[@class=&quot;list--3Gh&quot;]/div[@class=&quot;header--1yZ&quot;]/div[@class=&quot;header_inner--3dc&quot;]/div[@class=&quot;selection-list__cell--date headCell--lwz headCellWithOrder--49O&quot;]</value>
+      <webElementGuid>ea1d7c03-cf8b-4780-bbf2-c72eb494b735</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-container']/div/div[3]/div/div[2]/div[2]</value>
+      <webElementGuid>f7515f25-d8ad-4e57-bec7-8c2b11d277f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/following::div[1]</value>
+      <webElementGuid>c574b663-5b2d-45ec-9bd4-4157ba067480</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group actions'])[1]/following::div[10]</value>
+      <webElementGuid>f2827db5-85a8-45fe-81f8-f89df5b762aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Position'])[1]/preceding::div[2]</value>
+      <webElementGuid>a73b20dc-3d84-4ff7-aaee-776fcee233da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agency'])[1]/preceding::div[3]</value>
+      <webElementGuid>8ae4db58-3574-496b-8929-e88d8e8dfe09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Date added']/parent::*</value>
+      <webElementGuid>a6d5b074-aa97-4465-8ecd-8b201d6753d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div[2]</value>
+      <webElementGuid>ff654c04-1396-4ed5-a85b-d95d2ab4184a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Date added' or . = 'Date added')]</value>
+      <webElementGuid>2bc52825-848f-4774-afe3-5661bca1ce7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button Copy link to clipboard</name>
+   <tag></tag>
+   <elementGuidId>9e3b23b2-2678-41db-8557-c9cfaa7069ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.button--11r.button_normal--2la.button_default--mM4.linkBtnLayuot--Lp7</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>73f16e75-e557-4f23-a870-ede01652054a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button--11r button_normal--2la button_default--mM4 linkBtnLayuot--Lp7</value>
+      <webElementGuid>ae9dccf6-acc2-4c73-bebd-ef2c269c85d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>68b35873-e413-4f0c-ad6d-21b67735c9c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-katalon</name>
+      <type>Main</type>
+      <value>inviteCandidateCopyLinkToClipboardBtn</value>
+      <webElementGuid>67d70aef-db9a-4231-b5a9-3f479606f66b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Copy link to clipboard</value>
+      <webElementGuid>e2a33968-ee12-45bf-96e1-f594198f221d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[5]/div[@class=&quot;styles_overlay__CLSq- modalOverlay overlay--1b0&quot;]/div[@class=&quot;styles_modal__gNwvD modalV2--3P2 actionsModal--dip actionsModalEmail--2u- actionsModalInvite--3Sk&quot;]/div[1]/div[@class=&quot;section--1sp&quot;]/div[@class=&quot;content--1Ky&quot;]/div[@class=&quot;wrapper--1Tk&quot;]/div[@class=&quot;paddingBox--sGL paddingBox_topTiny--vkN&quot;]/div[@class=&quot;flexGrid--3N1 modalButtonsLayout--1Dh flexGrid_spaceBetween--12q&quot;]/button[@class=&quot;button--11r button_normal--2la button_default--mM4 linkBtnLayuot--Lp7&quot;]</value>
+      <webElementGuid>e8c57b27-0577-4463-87db-5fb7409d88ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>eb84ca81-620b-4f74-a114-e0446c2c411c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BEHAVIOUR Public name EN'])[2]/following::button[1]</value>
+      <webElementGuid>e2eeabad-2af1-46d8-a73b-2f3d66ff6d69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Function'])[1]/following::button[1]</value>
+      <webElementGuid>94954e19-3648-488d-abe6-0cecf6a68028</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open link in new window'])[1]/preceding::button[1]</value>
+      <webElementGuid>b50047da-50eb-4129-bfdf-daa5475a1287</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div/div/div/div/button</value>
+      <webElementGuid>8dac4f7a-bc96-432b-9088-e0b77db7eff8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Copy link to clipboard' or . = 'Copy link to clipboard')]</value>
+      <webElementGuid>ab9befa1-188a-4b36-b764-29c6a66b23a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

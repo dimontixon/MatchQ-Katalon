@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'dborodaikevych@sharpminds.com'</initValue>
+      <name>email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://ui-stage.matchq.nl/login'</initValue>
+      <name>MatchQ_STAGE_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://ui-development.matchq.nl/login'</initValue>
+      <name>MatchQ_DEV_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://development.matchq.nl/indicator/r.php?funcid=66867&amp;verid=-3&amp;c=fc81fb12e43a'</initValue>
+      <name>invite_new_candidate_link</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

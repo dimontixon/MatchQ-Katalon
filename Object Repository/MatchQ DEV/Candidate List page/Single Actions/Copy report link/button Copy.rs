@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button Copy</name>
+   <tag></tag>
+   <elementGuidId>b214e282-0891-4b3e-90fa-f4acec1e82eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.button--11r.button_medium--2ua.button_primary--1sD</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>799bd548-a891-4d08-9376-af3c7b897ad5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button--11r button_medium--2ua button_primary--1sD</value>
+      <webElementGuid>7e090628-c098-48d3-8ca2-8cd42a8fc355</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>30880802-2b3c-49db-a52b-369376a8a30f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-katalon</name>
+      <type>Main</type>
+      <value>shareCopyBtn</value>
+      <webElementGuid>779a299e-0e1f-462e-be0f-9cbb59ca88bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Copy</value>
+      <webElementGuid>c9d56666-535c-4fec-9af9-458aca9ecdab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[6]/div[@class=&quot;styles_overlay__CLSq- modalOverlay overlay--1b0&quot;]/div[@class=&quot;styles_modal__gNwvD modalV2--3P2 modal--1KT&quot;]/div[1]/div[@class=&quot;section--1sp&quot;]/div[@class=&quot;content--1Ky&quot;]/div[1]/div[@class=&quot;paddingBox--sGL paddingBox_topTiny--vkN&quot;]/div[@class=&quot;flexGrid--3N1 modalButtonsLayout--1Dh flexGrid_spaceBetween--12q&quot;]/button[@class=&quot;button--11r button_medium--2ua button_primary--1sD&quot;]</value>
+      <webElementGuid>d82cd6d6-b594-40ad-8831-7ebbdebd4d6b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>ff1f8b32-cd0f-4676-98a6-dbdc3475382a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>13d70297-99aa-453c-b07f-84ff2570f66c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='nl'])[1]/following::button[2]</value>
+      <webElementGuid>dd7350c2-b19d-4a94-b92c-53fe0223613c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div/div/div[3]/div/button[2]</value>
+      <webElementGuid>e7f9c946-2560-49b8-96a1-001c9ca77e97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Copy' or . = 'Copy')]</value>
+      <webElementGuid>1cd43b7d-cf6c-4230-85c6-7ea06be65a00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

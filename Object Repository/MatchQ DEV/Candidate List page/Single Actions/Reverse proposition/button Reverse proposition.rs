@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button Reverse proposition</name>
+   <tag></tag>
+   <elementGuidId>fb377636-d7d7-40d0-84f1-d3e4f8568286</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.button--11r.button_normal--2la.button_primary--1sD</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>999821bb-779a-4d28-acd2-520a64955431</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button--11r button_normal--2la button_primary--1sD</value>
+      <webElementGuid>196f0338-3a3f-4b35-a355-78b9b425c658</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>49ccc439-02fe-4ba4-854a-02b8e02a8bd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-katalon</name>
+      <type>Main</type>
+      <value>confirmationDialogConfirmBtn</value>
+      <webElementGuid>25c05246-1713-4914-bb29-247d7ed97515</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reverse proposition</value>
+      <webElementGuid>bca83b62-656f-4e34-899a-1b176832aa7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[5]/div[@class=&quot;styles_overlay__CLSq- styles_overlay--5Cv&quot;]/div[@class=&quot;styles_modal__gNwvD modal--2xI&quot;]/div[1]/div[@class=&quot;wrapper--Q0J&quot;]/div[@class=&quot;flexGrid--3N1 btnsWrapper--3VS flexGrid_spaceBetween--12q&quot;]/button[@class=&quot;button--11r button_normal--2la button_primary--1sD&quot;]</value>
+      <webElementGuid>39f4f164-8d84-42ce-b1d3-6c1f110a839c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>501a0885-65e9-4238-a8e3-bc000c903021</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>a5b751ec-385c-4c87-9902-68db14533926</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Are you sure you want to change ', '&quot;', 'name1 1 surname’s', '&quot;', ' status?')])[1]/following::button[2]</value>
+      <webElementGuid>8237bd66-76cd-45dc-9211-16c55db22cf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div[2]/button[2]</value>
+      <webElementGuid>a28d95ba-0a87-4c9f-b6f8-1f895d08a6bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Reverse proposition' or . = 'Reverse proposition')]</value>
+      <webElementGuid>9d3dae82-2099-451f-a23a-25e5227c1f13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

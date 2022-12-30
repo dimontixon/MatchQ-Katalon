@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button Show all</name>
+   <tag></tag>
+   <elementGuidId>192be720-d7cc-4edc-a8a4-881c0984a5ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.button--11r.button_normal--2la.button_default--mM4.button_with_icon--j12.groupFilterBtn--18a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e2aaf932-8508-4fe8-8543-8c34b06dabaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button--11r button_normal--2la button_default--mM4 button_with_icon--j12 groupFilterBtn--18a</value>
+      <webElementGuid>876ceb03-e44c-445f-a353-05d8d5425663</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7cd51f13-3386-4658-9a8f-a1f0bfc9f7ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-katalon</name>
+      <type>Main</type>
+      <value>selectionShowSelectedBtn</value>
+      <webElementGuid>27dddb4d-503b-45a9-bf93-d3633db92dcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Show all</value>
+      <webElementGuid>ff266f99-d7ea-4382-b2a0-1de478909e65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;tooltipContainer--1yK&quot;]/div[@class=&quot;tooltip--KxE tooltip_lightTheme--WIa tooltip_bottomPosition--3KK&quot;]/div[@class=&quot;tooltip__content--Do-&quot;]/div[@class=&quot;groupActionsTooltipContent--10v&quot;]/div[@class=&quot;groupFilterBox--2tF&quot;]/button[@class=&quot;button--11r button_normal--2la button_default--mM4 button_with_icon--j12 groupFilterBtn--18a&quot;]</value>
+      <webElementGuid>c03e678f-d2ed-4fef-b630-bf0252f74a29</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>e2adbf0f-badd-4dd3-85e8-09b43cfda1fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go to page'])[1]/following::button[1]</value>
+      <webElementGuid>8a9a6c8d-209f-4280-ad5e-1c6a91963aa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next page'])[1]/following::button[1]</value>
+      <webElementGuid>28897015-a00d-4f5f-b3a3-648283cd2c54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deselect all'])[1]/preceding::button[1]</value>
+      <webElementGuid>dffa2edc-ac00-47c5-a956-167858867866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/button</value>
+      <webElementGuid>d18b8751-ab87-4400-af66-992ef41824de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Show all' or . = 'Show all')]</value>
+      <webElementGuid>bff84c3a-eec2-484d-8b3a-42877bea27f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

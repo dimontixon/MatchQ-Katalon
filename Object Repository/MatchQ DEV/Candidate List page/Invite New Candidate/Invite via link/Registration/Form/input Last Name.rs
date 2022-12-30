@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input Last Name</name>
+   <tag></tag>
+   <elementGuidId>4cc86f8e-5a3a-4efc-94cf-90af0efdbdb3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='name_last']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#name_last</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>name_last</value>
+      <webElementGuid>c36d73a3-416e-4784-ab8c-bbb7189e2ebb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='name_last']</value>
+      <webElementGuid>660cee18-d913-4b82-a0cf-345a9601a634</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='main']/div[2]/div[3]/input</value>
+      <webElementGuid>1dc11878-3902-4b61-b00c-a428923c59d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/input</value>
+      <webElementGuid>bee78785-5040-4f1d-a935-cf1c09f8dcd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'name_last' and @name = 'name_last' and @type = 'text']</value>
+      <webElementGuid>bce637c3-14b8-4e54-b519-286a952b9a44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

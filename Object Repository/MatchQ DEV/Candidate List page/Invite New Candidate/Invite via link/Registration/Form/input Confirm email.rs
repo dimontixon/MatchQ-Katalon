@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input Confirm email</name>
+   <tag></tag>
+   <elementGuidId>5ff4cd37-88de-4af5-86a4-8b259973dea3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='email_confirm']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#email_confirm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>email_confirm</value>
+      <webElementGuid>838fdf9d-5a55-4b24-8f54-0c4f14e47f94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='email_confirm']</value>
+      <webElementGuid>3cf2ce72-f0e1-498b-a0d8-04e77e1190e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='main']/div[2]/div/div[6]/input</value>
+      <webElementGuid>90fc3a60-1601-4f2c-a0a5-4329c028a439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/input</value>
+      <webElementGuid>ea7efcaf-c403-4020-a647-3d770a05bfd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'email_confirm' and @name = 'email_confirm' and @type = 'text']</value>
+      <webElementGuid>600494dd-909e-4ae2-b789-1abf15df3046</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

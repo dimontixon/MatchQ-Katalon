@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>login Title</name>
+   <tag></tag>
+   <elementGuidId>6a3445bc-8e08-4c99-8223-7f4ec2bd214a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.title--2Mx</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>643c214b-9b04-45eb-bb55-0f64724a5600</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title--2Mx</value>
+      <webElementGuid>00860ab3-0482-4fac-870a-3cc8ac680bc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-katalon</name>
+      <type>Main</type>
+      <value>loginTitle</value>
+      <webElementGuid>539fd18e-b022-4db0-a365-00b78307d931</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hi! Welcome back.</value>
+      <webElementGuid>5f43d603-bd32-4408-afa5-b6359d293d9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container--1qx&quot;]/div[@class=&quot;actionsWrapper--2W0&quot;]/div[@class=&quot;actionsContent--10t&quot;]/h1[@class=&quot;title--2Mx&quot;]</value>
+      <webElementGuid>45184fc4-dffb-4bb2-8c4d-be793033c408</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/h1</value>
+      <webElementGuid>6f6fd4ca-f9a2-4bb3-aa63-e4b55ce2c97a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JavaScript required'])[1]/following::h1[1]</value>
+      <webElementGuid>1100e2d4-af4c-4147-b242-dccb4f30118a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter your details below.'])[1]/preceding::h1[1]</value>
+      <webElementGuid>72c320b9-5a03-4ee8-98e7-0e007a88ed55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User name'])[1]/preceding::h1[1]</value>
+      <webElementGuid>bc72ade5-f586-4a07-a883-61aea869efd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hi! Welcome back.']/parent::*</value>
+      <webElementGuid>b2421b44-8cf1-47c6-af47-b16cee235dfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/h1</value>
+      <webElementGuid>9c5968ef-a390-4f1a-97e1-17e48dcc1e07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Hi! Welcome back.' or . = 'Hi! Welcome back.')]</value>
+      <webElementGuid>5bcc02db-4145-4942-92e3-f800d9f1375b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

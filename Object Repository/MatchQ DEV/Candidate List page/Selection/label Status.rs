@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label Status</name>
+   <tag></tag>
+   <elementGuidId>fab827b9-fcac-42ba-bf3d-f0985dc73663</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.caption--3vu</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-container']/div/div[3]/div[2]/div/div/div[7]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7ca923ac-1672-4df4-8bac-124e995138fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>caption--3vu</value>
+      <webElementGuid>be27017a-b815-407d-b2b0-ad8f722d9db0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>starts with</matchCondition>
+      <name>data-katalon</name>
+      <type>Main</type>
+      <value>selectionCandidateStatus_</value>
+      <webElementGuid>14157e2a-7e23-4e50-8d9f-b668e3de7609</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Incomplete</value>
+      <webElementGuid>b6da92a7-4da7-4e01-a3d3-a28e8b7637d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-container&quot;)/div[@class=&quot;content content--3Nx&quot;]/div[@class=&quot;list--3Gh&quot;]/div[@class=&quot;body--2ay selection-list-body&quot;]/div[@class=&quot;rowWrapper--1YB&quot;]/div[@class=&quot;row--2Qg&quot;]/div[@class=&quot;selection-list__cell--status rowCell--34R&quot;]/div[1]/div[@class=&quot;status--1Mx&quot;]/div[@class=&quot;caption--3vu&quot;]</value>
+      <webElementGuid>ba64136e-3129-46a2-9db8-c871e562836d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-container']/div/div[3]/div[2]/div/div/div[7]/div/div/div</value>
+      <webElementGuid>1e209ea2-c626-46bf-a76e-d00259f0fbd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BI + NIVO 25'])[1]/following::div[7]</value>
+      <webElementGuid>64785625-09e4-41ae-9ad8-ffdfb51c295f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dmytro2 abc222 abc2'])[1]/preceding::div[13]</value>
+      <webElementGuid>2ab73b98-7643-43cf-8fda-86d5bc5024f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BI + NIVO 35'])[1]/preceding::div[15]</value>
+      <webElementGuid>14bc1b5d-f564-4970-b7e7-ef204581c141</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Incomplete']/parent::*</value>
+      <webElementGuid>fae118ce-b115-4966-b5f2-4f899101b000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[7]/div/div/div</value>
+      <webElementGuid>b50d2985-7c19-4b37-a01a-332a5e784835</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Incomplete' or . = 'Incomplete')]</value>
+      <webElementGuid>2798c212-e5f2-44ea-afcc-4bc72ad0bc11</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

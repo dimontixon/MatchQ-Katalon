@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button Candidate Name</name>
+   <tag></tag>
+   <elementGuidId>945c30db-f8a1-433e-acc5-d5ba96ea6722</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-container']/div/div[3]/div[2]/div/div/div[2]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.nameBtn--R4U</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[starts-with(@data-katalon, 'selectionCandidate_')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7bd4fa3a-01b8-4450-8f1b-3c6dbea981cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nameBtn--R4U</value>
+      <webElementGuid>94ae19a5-55d1-44c5-ba62-c1fc6a70b193</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>starts with</matchCondition>
+      <name>data-katalon</name>
+      <type>Main</type>
+      <value>selectionCandidate_</value>
+      <webElementGuid>7f17b8ff-8529-413c-80e3-0221f2f7a099</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BI+NIVO 11  DimaTEST</value>
+      <webElementGuid>b3a5e4d2-be47-46a9-97c6-05dab025949c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-container&quot;)/div[@class=&quot;content content--3Nx&quot;]/div[@class=&quot;list--3Gh&quot;]/div[@class=&quot;body--2ay selection-list-body&quot;]/div[@class=&quot;rowWrapper--1YB&quot;]/div[@class=&quot;row--2Qg&quot;]/div[@class=&quot;selection-list__cell--name rowCell--34R&quot;]/button[@class=&quot;nameBtn--R4U&quot;]</value>
+      <webElementGuid>aa78fbd7-8d1d-41fd-bac2-e081e03ca14b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-container']/div/div[3]/div[2]/div/div/div[2]/button</value>
+      <webElementGuid>eb8a6586-8f49-403b-8cc4-559114dbcaf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report'])[1]/following::button[1]</value>
+      <webElementGuid>17959e7a-f182-4c2d-8abe-3dbde9c0b614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test result'])[1]/following::button[1]</value>
+      <webElementGuid>be1622b5-05cf-43c6-bb8a-e3d6da521f5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BI + NIVO 25'])[1]/preceding::button[1]</value>
+      <webElementGuid>29468399-0701-45d1-9097-fa28f7f3f23d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Incomplete'])[1]/preceding::button[1]</value>
+      <webElementGuid>973e49e3-a169-43b7-933e-6a59bfe7f5fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/button</value>
+      <webElementGuid>1f2df9e1-8987-47ea-8919-b160c23e6354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'BI+NIVO 11  DimaTEST' or . = 'BI+NIVO 11  DimaTEST')]</value>
+      <webElementGuid>82eb09f0-2bc5-4415-bb2e-55839111ae86</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

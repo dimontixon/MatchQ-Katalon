@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input Prefix</name>
+   <tag></tag>
+   <elementGuidId>66f68fa8-f426-4a08-9de4-d43ca65b623e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='name_middle']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#name_middle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>name_middle</value>
+      <webElementGuid>c2c418d7-e0d2-42ce-bbd9-56893ffb1fe7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='name_middle']</value>
+      <webElementGuid>cc83443f-620a-404c-85cc-43fc643286fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='main']/div[2]/div[2]/input</value>
+      <webElementGuid>c3fade5e-48db-4cae-9012-e1339f87a3ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input</value>
+      <webElementGuid>cf5fc6e5-cd76-404b-917d-02238bc64809</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'name_middle' and @name = 'name_middle' and @type = 'text']</value>
+      <webElementGuid>cee69f18-8bde-4966-ad1c-5d8619e95991</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

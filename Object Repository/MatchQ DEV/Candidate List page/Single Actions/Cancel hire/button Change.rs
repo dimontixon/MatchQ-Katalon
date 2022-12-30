@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button Change</name>
+   <tag></tag>
+   <elementGuidId>5331d1e7-c8bd-4dfe-bfb0-edc51bd653c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.button--11r.button_normal--2la.button_primary--1sD</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d08d35da-caf9-49b0-b2b6-9ec420a8ad06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button--11r button_normal--2la button_primary--1sD</value>
+      <webElementGuid>97e6f1ad-164e-49c5-bfff-f0223574aa49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>601f3347-0cca-4d5a-8c55-bcfaa0045937</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-katalon</name>
+      <type>Main</type>
+      <value>confirmationDialogConfirmBtn</value>
+      <webElementGuid>8fa80a90-5e83-4132-8619-e7501d4f4173</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Change</value>
+      <webElementGuid>75c9a0d9-6a23-4624-990d-9e30983816d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[5]/div[@class=&quot;styles_overlay__CLSq- styles_overlay--5Cv&quot;]/div[@class=&quot;styles_modal__gNwvD modal--2xI&quot;]/div[1]/div[@class=&quot;wrapper--Q0J&quot;]/div[@class=&quot;flexGrid--3N1 btnsWrapper--3VS flexGrid_spaceBetween--12q&quot;]/button[@class=&quot;button--11r button_normal--2la button_primary--1sD&quot;]</value>
+      <webElementGuid>5d290017-da98-4fd1-8e0e-22377f9b38d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>23811ed7-9736-40c4-ab32-c26c2e9611ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>4e207275-0780-4a78-8823-a841e51c6cde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Are you sure you want to change ', '&quot;', 'Dmytro2 abc222 abc2’s', '&quot;', ' status?')])[1]/following::button[2]</value>
+      <webElementGuid>f7106194-c029-4049-af0a-c137fb3f26cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/div[2]/button[2]</value>
+      <webElementGuid>06d84cae-d40b-4284-9f8c-82a9a220e451</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Change' or . = 'Change')]</value>
+      <webElementGuid>4801e26d-5313-40af-a139-fc5d94da3e2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

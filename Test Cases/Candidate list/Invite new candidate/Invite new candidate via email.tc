@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Invite new candidate via email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f89e1633-aeac-4df0-ada2-d4e35a14302a</testCaseGuid>
+</TestCaseEntity>

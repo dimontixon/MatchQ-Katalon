@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Status Proposed</name>
+   <tag></tag>
+   <elementGuidId>36834ba3-670f-4965-9411-62cfaa4dbbac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed'])[5]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a6d80715-e213-4ba3-8eed-38ce3942970f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>listItem--2fs</value>
+      <webElementGuid>3ad80852-8ef9-4907-b099-20053ffa1a0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-katalon</name>
+      <type>Main</type>
+      <value>dropdownItem_interview</value>
+      <webElementGuid>b19c0637-0d1a-4937-8910-dfdbb6151b33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Proposed</value>
+      <webElementGuid>4d6a23a7-d630-4134-8d01-c2dffcf6490b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[5]/div[@class=&quot;styles_overlay__CLSq- modalSectionOverlay modalSectionOverlay--1PI&quot;]/div[@class=&quot;styles_modal__gNwvD modalSection--1cU&quot;]/div[1]/div[@class=&quot;modalSectionWrapper--RKn&quot;]/form[@class=&quot;form--1hP&quot;]/div[@class=&quot;content--1-N&quot;]/div[1]/div[1]/div[1]/div[1]/div[@class=&quot;group--1Hg&quot;]/div[@class=&quot;controlGroup--3ay&quot;]/div[@class=&quot;component--17Y&quot;]/div[@class=&quot;dropdown--2io dropdown_active--3so dropdown_default--2zr&quot;]/div[@class=&quot;container--3va container_default--2Es&quot;]/div[@class=&quot;list--2rn&quot;]/div[1]/div[1]/div[@class=&quot;listItem--2fs&quot;]</value>
+      <webElementGuid>18095a5a-41c7-43ff-820a-ae3b24b43996</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed'])[5]/following::div[1]</value>
+      <webElementGuid>271e33b7-a11d-4ddd-91c6-0c2ec873cc2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Incomplete'])[5]/following::div[2]</value>
+      <webElementGuid>4a61c1d5-8767-4a80-96ce-6288ce062bb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hired'])[1]/preceding::div[1]</value>
+      <webElementGuid>7583f2ac-30b7-4dbd-a274-1251957937b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div[5]</value>
+      <webElementGuid>16bcbca1-4352-45a4-99f1-fdd0ca46b2d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Proposed' or . = 'Proposed')]</value>
+      <webElementGuid>a7114e41-3267-4c26-9d3d-d3ca455de557</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

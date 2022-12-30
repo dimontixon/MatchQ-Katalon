@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text Dont have an account</name>
+   <tag></tag>
+   <elementGuidId>5c0ba06a-ebe9-4991-8b50-ac6990fbc592</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.contactText--2kX</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>91da538c-29ad-414a-8d7a-1b80d803cb70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>contactText--2kX</value>
+      <webElementGuid>1a915035-dcf2-45a7-8cc9-f69c37c2a6ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-katalon</name>
+      <type>Main</type>
+      <value>doNotHaveAccountText</value>
+      <webElementGuid>b1845128-0b46-483b-844a-c272f17780a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Don’t have an account? Contact us via info@matchq.nl or call us on +31 (0)88 664 64 04</value>
+      <webElementGuid>f24cec3d-4f8b-47a7-8ecf-a0166c9d151a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container--1qx&quot;]/div[@class=&quot;actionsWrapper--2W0&quot;]/div[@class=&quot;actionsContent--10t&quot;]/p[@class=&quot;contactText--2kX&quot;]</value>
+      <webElementGuid>58cdbe26-5ed3-4071-8ebb-095f80df487d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/p</value>
+      <webElementGuid>5c2bf745-0420-4d6d-a245-f1472785ec96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/following::p[1]</value>
+      <webElementGuid>eb117197-0c18-428b-9941-c57bc7363733</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password'])[1]/following::p[1]</value>
+      <webElementGuid>e3dd62ed-331f-4d0c-8145-ff573d063da9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='en'])[1]/preceding::p[1]</value>
+      <webElementGuid>2e103ede-5d59-4c21-bbac-d5ff7cd6ee35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Don’t have an account? Contact us via info@matchq.nl or call us on']/parent::*</value>
+      <webElementGuid>dbdb92d1-1ca5-426a-bd39-208776c7b53c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/p</value>
+      <webElementGuid>964fcb3c-4e95-4775-8597-60baa8fd20a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Don’t have an account? Contact us via info@matchq.nl or call us on +31 (0)88 664 64 04' or . = 'Don’t have an account? Contact us via info@matchq.nl or call us on +31 (0)88 664 64 04')]</value>
+      <webElementGuid>20288766-476e-480d-afa3-b1cb3ce5a159</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

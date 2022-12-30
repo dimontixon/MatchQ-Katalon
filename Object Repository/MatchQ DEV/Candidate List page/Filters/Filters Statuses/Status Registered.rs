@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Status Registered</name>
+   <tag></tag>
+   <elementGuidId>4c450bf4-a973-445b-b2f6-4064350f8711</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Invited'])[3]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e38249c4-1484-441a-9dc1-4f6a1c06bf36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>listSubItem--2qY </value>
+      <webElementGuid>5ed49c90-63eb-4ffc-804b-4156748b04fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-katalon</name>
+      <type>Main</type>
+      <value>selectionFilterItem_registered</value>
+      <webElementGuid>21085d69-f7b8-4d09-a6a0-ff94dda25eb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Registered</value>
+      <webElementGuid>204b46b0-c423-4012-b9b9-0f9c67a565db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[5]/div[@class=&quot;styles_overlay__CLSq- modalSectionOverlay modalSectionOverlay--1PI&quot;]/div[@class=&quot;styles_modal__gNwvD modalSection--1cU&quot;]/div[1]/div[@class=&quot;modalSectionWrapper--RKn&quot;]/form[@class=&quot;form--1hP&quot;]/div[@class=&quot;content--1-N&quot;]/div[1]/div[1]/div[1]/div[1]/div[@class=&quot;group--1Hg&quot;]/div[@class=&quot;controlGroup--3ay&quot;]/div[@class=&quot;component--17Y&quot;]/div[@class=&quot;dropdown--2io dropdown_active--3so dropdown_default--2zr&quot;]/div[@class=&quot;container--3va container_default--2Es&quot;]/div[@class=&quot;list--2rn&quot;]/div[1]/div[1]/div[@class=&quot;listSubItemGroup--1WX&quot;]/div[2]/div[@class=&quot;listSubItem--2qY&quot;]</value>
+      <webElementGuid>0ca85d4b-6ef1-46da-926e-410712b3e4cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invited'])[3]/following::div[1]</value>
+      <webElementGuid>0e762edb-c59a-432a-9f3c-93b2223e2f97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Incomplete'])[5]/preceding::div[1]</value>
+      <webElementGuid>2dfc1635-4d33-4aed-95d1-468ab24bb62e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Completed'])[5]/preceding::div[2]</value>
+      <webElementGuid>1786c656-75ea-4178-82bb-c96dda56bd06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Registered']/parent::*</value>
+      <webElementGuid>35091510-7915-42f1-8bd1-741c12d3be7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]/div[2]/div[2]</value>
+      <webElementGuid>c46dc5eb-ea0a-4db1-b2f1-4168b5c51d11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Registered' or . = 'Registered')]</value>
+      <webElementGuid>b7c2a2f3-6787-47e5-8c48-cf483673a9f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

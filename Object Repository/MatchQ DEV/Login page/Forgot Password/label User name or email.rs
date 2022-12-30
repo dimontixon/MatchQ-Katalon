@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label User name or email</name>
+   <tag></tag>
+   <elementGuidId>b594240a-e677-4572-8a48-c0f0e273014a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.label--1lX</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/form/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ee4e6b6f-aaef-486e-8dde-61979f0811c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label--1lX</value>
+      <webElementGuid>f49e0b17-3827-4b3b-83bf-f90cc97b3f31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-katalon</name>
+      <type>Main</type>
+      <value>userNameOrEmailLabel</value>
+      <webElementGuid>0ed2fd78-b935-4c46-822e-7a905bd50eaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>User name or email</value>
+      <webElementGuid>4295a2fd-37d9-4ce0-a78f-97152cca9cf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;container--1qx&quot;]/div[@class=&quot;actionsWrapper--2W0&quot;]/div[@class=&quot;actionsContent--10t&quot;]/form[@class=&quot;form--1ML&quot;]/div[@class=&quot;controlGroup--3ay&quot;]/label[@class=&quot;label--1lX&quot;]</value>
+      <webElementGuid>66fe6435-e3f2-4b37-935c-f6da2b4171ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/form/div/label</value>
+      <webElementGuid>cdf763d3-c70f-4464-b295-deaf681f2c5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter your username or email to help us identify you.'])[1]/following::label[1]</value>
+      <webElementGuid>d2df3872-f204-4be2-ad93-1c45ed539a55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password? Don’t worry.'])[1]/following::label[1]</value>
+      <webElementGuid>1fcbab7e-efd6-42d6-92d4-a15f43707c74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::label[1]</value>
+      <webElementGuid>4ecd1e19-0e72-49bf-aea2-04b205693535</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Return to Log in page'])[1]/preceding::label[1]</value>
+      <webElementGuid>75677240-b604-4fd6-a57e-0fe92f6dc5b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='User name or email']/parent::*</value>
+      <webElementGuid>56f58fe3-dff3-42fb-a23f-390d1354428b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>d73df992-76a0-4b02-a682-33451e73ed26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'User name or email' or . = 'User name or email')]</value>
+      <webElementGuid>76a312de-356e-48d0-aec5-360aa820fb43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

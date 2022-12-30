@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input Phone number</name>
+   <tag></tag>
+   <elementGuidId>7a882ecd-52ec-4e94-935a-c8e9daf100bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='phone']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#phone</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>phone</value>
+      <webElementGuid>5575f495-d8df-45c5-993b-daba243917bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='phone']</value>
+      <webElementGuid>1ad595da-26ec-4811-bde7-da3070322386</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='main']/div[2]/div/div[7]/input</value>
+      <webElementGuid>3d239162-33ae-475a-9ed5-087872cc1265</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/input</value>
+      <webElementGuid>e8d47ba1-954d-45ee-bf36-ea8c95f66f88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'phone' and @name = 'phone' and @type = 'text']</value>
+      <webElementGuid>6a236690-5a8a-493b-8ec5-02902d7fa232</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

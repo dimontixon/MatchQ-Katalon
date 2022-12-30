@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown Education</name>
+   <tag></tag>
+   <elementGuidId>60d17b08-1784-45b3-8788-46b6d7b13316</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='select2-chosen-4']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#select2-chosen-4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-chosen-4</value>
+      <webElementGuid>7e02387f-dd51-431b-9693-90da228e7a3d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='select2-chosen-4']</value>
+      <webElementGuid>1b9dbc1b-8c1a-40cf-9ea1-ed15957e0a90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='s2id_opleiding']/a/span</value>
+      <webElementGuid>5a8add5d-5194-4fce-b0a1-d3e5e6aafac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Education'])[1]/following::span[1]</value>
+      <webElementGuid>5b891ff7-6c3f-4cf3-8828-7be2ba8825d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone number'])[1]/following::span[1]</value>
+      <webElementGuid>f340ebf7-325f-40b4-bde3-db6e3809a94f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Education'])[2]/preceding::span[2]</value>
+      <webElementGuid>83fb5fd8-244f-4e8c-9c9b-d81433d29145</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Education'])[3]/preceding::span[2]</value>
+      <webElementGuid>5f21f711-8554-471b-86e5-64e851e610ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='- choose level -']/parent::*</value>
+      <webElementGuid>d74e38af-65ad-4516-b563-d6c53ba4b8d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/a/span</value>
+      <webElementGuid>d3a39728-0112-458a-b306-1f4190ba065f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'select2-chosen-4' and (text() = ' - choose level - ' or . = ' - choose level - ')]</value>
+      <webElementGuid>eb4b5813-9c29-4836-9c21-f8bdc30313b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

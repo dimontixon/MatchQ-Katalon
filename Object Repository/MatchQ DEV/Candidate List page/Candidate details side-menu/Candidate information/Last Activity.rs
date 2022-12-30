@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Last Activity</name>
+   <tag></tag>
+   <elementGuidId>591fb7d8-2f1c-489d-b1c3-e2a7f62935a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-tabs-1']/div/div/div/div/div/div[3]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>06dcabb9-fa6b-4e82-8fb3-e0957e3d18c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text--2XJ</value>
+      <webElementGuid>8b16db77-6558-4662-9174-26ac846a727c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-katalon</name>
+      <type>Main</type>
+      <value>candidatePanel_lastActivity</value>
+      <webElementGuid>21212ed3-91d6-4916-9f36-ffd2bfafca65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>20.09.2022 17:10:34</value>
+      <webElementGuid>6e3c9426-76aa-42eb-b4d6-25e06e2b4b31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-tabs-1&quot;)/div[@class=&quot;details--1-t&quot;]/div[1]/div[1]/div[1]/div[@class=&quot;sectionWrapper--3oD&quot;]/div[@class=&quot;rowWrapper--3Qm&quot;]/span[@class=&quot;text--2XJ&quot;]</value>
+      <webElementGuid>8d9af1af-bba9-46f8-970e-3096d7e30df2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-tabs-1']/div/div/div/div/div/div[3]/span[2]</value>
+      <webElementGuid>0cb6a1a2-080c-4206-ba65-dda58bccd6cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last activity:'])[1]/following::span[1]</value>
+      <webElementGuid>99126beb-e465-4499-bb53-116b0f3c1651</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Added:'])[1]/following::span[3]</value>
+      <webElementGuid>2159b31b-d964-43b7-86ce-2c77c800f8f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status:'])[1]/preceding::span[1]</value>
+      <webElementGuid>be76e874-9d10-4174-a1b6-4f2567c8a55c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Incomplete'])[6]/preceding::span[2]</value>
+      <webElementGuid>eeb0ad8e-1353-4b8f-8f1d-913953832f1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='20.09.2022 17:10:34']/parent::*</value>
+      <webElementGuid>a65c2d81-4b7d-4910-8488-9a06cfebd63f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/span[2]</value>
+      <webElementGuid>4db53d72-533f-46cd-8ecd-d3796dc06a37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '20.09.2022 17:10:34' or . = '20.09.2022 17:10:34')]</value>
+      <webElementGuid>30c13f6b-eee8-4923-b418-0cb3e9e04cf1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

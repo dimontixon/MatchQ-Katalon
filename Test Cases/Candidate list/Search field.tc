@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca0a9c38-1a31-4ece-bdb6-0daf786b2d2a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c419cbc1-cb8e-4a50-b8c5-015babad1ac2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'tEst'</defaultValue>
+      <description></description>
+      <id>c419cbc1-cb8e-4a50-b8c5-015babad1ac2</id>
+      <masked>false</masked>
+      <name>inputSearch</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button Cancel</name>
+   <tag></tag>
+   <elementGuidId>60f37a70-610c-4800-807c-5f60aa0e228c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flexGrid--3N1.modalButtonsLayout--1Dh.flexGrid_spaceBetween--12q > button.button--11r.button_normal--2la.button_default--mM4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[11]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>027262cc-d483-436f-adfb-1c5613c17f3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button--11r button_normal--2la button_default--mM4</value>
+      <webElementGuid>d2906606-b52e-4c39-b0f8-a2663fa2170e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>07983d7a-36bf-42e3-9754-3d4e083d923a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-katalon</name>
+      <type>Main</type>
+      <value>proposeCancelBtn</value>
+      <webElementGuid>46776188-0ce0-4a3d-b0be-a6d71859634b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cancel</value>
+      <webElementGuid>ee62c961-e9f9-4d4e-a70e-3026867edd9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[6]/div[@class=&quot;styles_overlay__CLSq- modalOverlay overlay--1b0&quot;]/div[@class=&quot;styles_modal__gNwvD modalV2--3P2 actionsModal--dip actionsModalEmail--2u-&quot;]/div[1]/div[@class=&quot;section--1sp&quot;]/div[@class=&quot;content--1Ky&quot;]/form[1]/div[@class=&quot;paddingBox--sGL paddingBox_topTiny--vkN&quot;]/div[@class=&quot;flexGrid--3N1 modalButtonsLayout--1Dh flexGrid_spaceBetween--12q&quot;]/button[@class=&quot;button--11r button_normal--2la button_default--mM4&quot;]</value>
+      <webElementGuid>11db4d8f-e611-4ee3-aedc-42c3c3f0de06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[11]</value>
+      <webElementGuid>9405b6d3-b815-4a72-ad69-abcd32501930</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NL'])[1]/following::button[1]</value>
+      <webElementGuid>435d9109-b84c-4cdc-985a-59cc699621e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[1]/following::button[2]</value>
+      <webElementGuid>0733f8b1-1f9b-46bc-a86a-5ee13ba5cbf3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send message'])[1]/preceding::button[1]</value>
+      <webElementGuid>d37e787f-5b95-4d08-96d8-3417cd71244f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/button</value>
+      <webElementGuid>b49f2e3a-deda-4a6d-ad4c-f9a1ab95d172</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Cancel' or . = 'Cancel')]</value>
+      <webElementGuid>36bd54ff-6a4d-400a-9f63-b1c5dd3b9ed1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
